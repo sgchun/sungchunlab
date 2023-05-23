@@ -20,7 +20,7 @@ Email: SungGook.Chun at childrens.harvard.edu
 ## Direction
 We are located on the 4th floor in the Enders Research Labs building. Visitors can use the entrance on traffic circle.
 
-![Longwood Campus Map](/BCH-longwood-map.jpg){: width="750" }
+![Longwood Campus Map](/sungchunlab/BCH-longwood-map.jpg){: width="750" }
 
 ---
 <sub>Powered by [Jekyll](https://github.com/mojombo/jekyll) and [Poole](http://getpoole.com)</sub>
