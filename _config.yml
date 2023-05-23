@@ -1,22 +1,16 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
-title:            Sung Chun Lab
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://sgchun.github.io/sungchunlab
-baseurl:          /
+title:               Sung Chun Lab
+tagline:             'tag line'
+description:         'Sung Chun Lab is a computational genetics laboratory in the Division of Pulmonary Medicine at <a href="https://www.childrenshospital.org/">Boston Childrens Hospital</a>'
+url:                 https://sgchun.github.io/sungchunlab
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-paginate:         5
+# Gems
+plugins:
+  - jekyll-paginate
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
