@@ -3,10 +3,14 @@ layout: default
 title: Home
 ---
 
+The Chun Lab is a computational genetics laboratory in the <a href="https://www.childrenshospital.org/departments/pulmonary-medicine">Division of Pulmonary Medicine</a> at <a href="https://www.childrenshospital.org/">Boston Children's Hospital</a> and Department of Pediatrics at <a href="https://hms.harvard.edu/">Harvard Medical School</a>. We are interested in the genetics of both common and rare lung diseases and development of new computational genetic methods for integrative multi-omics analysis and polygenic risk prediction. 
+
+<p>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
       </a>
@@ -35,3 +39,5 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<img src="logo.png">
