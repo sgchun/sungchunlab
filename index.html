@@ -3,8 +3,10 @@ layout: default
 title: Home
 ---
 
-The Chun Lab is a computational genetics laboratory in the <a href="https://www.childrenshospital.org/departments/pulmonary-medicine">Division of Pulmonary Medicine</a> at <a href="https://www.childrenshospital.org/">Boston Children's Hospital</a> and Department of Pediatrics at <a href="https://hms.harvard.edu/">Harvard Medical School</a>. We are interested in the genetics of both common and rare lung diseases and development of new computational genetic methods for integrative multi-omics analysis and polygenic risk prediction. 
+The Chun Lab is a computational genetics laboratory in the <a href="https://www.childrenshospital.org/departments/pulmonary-medicine">Division of Pulmonary Medicine</a> at <a href="https://www.childrenshospital.org/">Boston Children's Hospital</a> and Department of Pediatrics at <a href="https://hms.harvard.edu/">Harvard Medical School</a>. We are interested in the development of novel computational methods for integrative genetic analysis and their application to rare and common pulmonary genetic disorders. 
 
+<p>
+<p>
 <p>
 
 <div class="posts">
@@ -21,23 +23,6 @@ The Chun Lab is a computational genetics laboratory in the <a href="https://www.
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
 </div>
 
 <img src="https://sgchun.github.io/sungchunlab/logo.png">
