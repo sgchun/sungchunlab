@@ -3,7 +3,7 @@ title:               SUNG CHUN LAB
 tagline:             Computational genetics of respiratory diseases at Boston Children's Hospital
 description:         Sung Chun Lab is a computational genetics laboratory in the Division of Pulmonary Medicine at Boston Children's Hospital and Department of Pediatrics at Harvard Medical School
 url:                 https://sgchun.github.io/sungchunlab
-baseurl:             ''
+baseurl:             '/sungchunlab'
 paginate:            5
 permalink:           pretty
 
