@@ -6,8 +6,10 @@ title: Publications
 ### 2023
 1. Hecker J, Chun S, Samiei A, Liu C, Laurie C, Kachroo P, Lutz SM, Lee S, Smith AV, Lasky-Su J, Cho MH, Sharma S, Soto Quirós ME, Avila L, Celedón JC, Raby B, Zhou X, Silverman EK, DeMeo DL, Lange C, Weiss ST. **FGF20 and PGM2 variants are associated with childhood asthma in family-based whole-genome sequencing studies.** *Hum Mol Genet.* 2023 Jan 27;32(4):696-707.  
 [ [doi: 10.1093/hmg/ddac258](http://dx.doi.org/10.1093/hmg/ddac258) ] [ [PMID: 36255742](https://pubmed.ncbi.nlm.nih.gov/36255742/) ] [ [PMCID: PMC9896483](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9896483/) ]
-2. Queen K, Nguyen MN, Chun S, Gilliland FD, Raby B, Millstein J. **ACDC: a general approach for detecting phenotype or exposure associated co-expression.** *Frontiers in Medicine.* 10, 1003 *(in press)*. 
-3. Hayeck TJ, Busby GB, Chun S, Lewis ACF, Roberts MC, Vilhjalmsson BJ. **Polygenic Risk Scores: Genomes to Risk Prediction.** *Clinical Chemistry.* *(in press)*.
+2. Queen K, Nguyen MN, Chun S, Gilliland FD, Raby B, Millstein J. **ACDC: a general approach for detecting phenotype or exposure associated co-expression.** *Frontiers in Medicine.* 2023 May 19;10:1118824.
+[ [doi: 10.3389/fmed.2023.1118824](http://dx.doi.org/10.3389/fmed.2023.1118824) ] [ [PMID: 37275375](https://pubmed.ncbi.nlm.nih.gov/37275375/) ] [ [PMCID: PMC10235619](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10235619/) ] 
+3. Hayeck TJ, Busby GB, Chun S, Lewis ACF, Roberts MC, Vilhjalmsson BJ. **Polygenic Risk Scores: Genomes to Risk Prediction.** *Clinical Chemistry.* Volume 69, Issue 6, June 2023, Pages 551–557. 
+[ [doi: 10.1093/clinchem/hvad049](https://doi.org/10.1093/clinchem/hvad049) ]
 
 ### 2022
 1. Chun S\*, Akle S\*, Teodosiadis A, Cade BE, Wang H, Sofer T, Evans DS, Stone KL, Gharib SA, Mukherjee S, Palmer LJ, Hillman D, Rotter JI, Hanis CL, Stamatoyannopoulos JA, Redline S, Cotsapas C, Sunyaev SR. **Leveraging pleiotropy to discover and interpret GWAS results for sleep-associated traits.** *PLoS Genet.* 2022 Dec;18(12):e1010557.  
