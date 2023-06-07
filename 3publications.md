@@ -9,7 +9,7 @@ title: Publications
 2. Queen K, Nguyen MN, Chun S, Gilliland FD, Raby B, Millstein J. **ACDC: a general approach for detecting phenotype or exposure associated co-expression.** *Frontiers in Medicine.* 2023 May 19;10:1118824. 
 [ [doi: 10.3389/fmed.2023.1118824](http://dx.doi.org/10.3389/fmed.2023.1118824) ] [ [PMID: 37275375](https://pubmed.ncbi.nlm.nih.gov/37275375/) ] [ [PMCID: PMC10235619](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10235619/) ] 
 3. Hayeck TJ, Busby GB, Chun S, Lewis ACF, Roberts MC, Vilhjalmsson BJ. **Polygenic Risk Scores: Genomes to Risk Prediction.** *Clinical Chemistry.* Volume 69, Issue 6, June 2023, Pages 551–557.  
-[ [doi: 10.1093/clinchem/hvad049](https://doi.org/10.1093/clinchem/hvad049) ]
+[ [doi: 10.1093/clinchem/hvad049](https://doi.org/10.1093/clinchem/hvad049) ] [ [PMID: 37232050](https://pubmed.ncbi.nlm.nih.gov/37232050/) ]
 
 ### 2022
 1. Chun S\*, Akle S\*, Teodosiadis A, Cade BE, Wang H, Sofer T, Evans DS, Stone KL, Gharib SA, Mukherjee S, Palmer LJ, Hillman D, Rotter JI, Hanis CL, Stamatoyannopoulos JA, Redline S, Cotsapas C, Sunyaev SR. **Leveraging pleiotropy to discover and interpret GWAS results for sleep-associated traits.** *PLoS Genet.* 2022 Dec;18(12):e1010557.  
